@@ -1,4 +1,35 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+### Hey! 🌞 , I'm <a href="https://linktr.ee/Ggre55">Ggre55 </a> 
+
+<a href="https://twitter.com/anproghub">
+  <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />
+</a>
+<a href="https://www.linkedin.com/in/ankushchauhan14">
+  <img align="left" alt="Ankush's Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
+</a>
+<a href="https://dsc.gg/cryptokaro">
+  <img align="left" alt="Ankush's Gitlab" width="42px" src="https://user-images.githubusercontent.com/67872399/172011937-2089d709-3b96-485c-8b97-201522f8664c.png" />
+</a>
+  <a href="mailto:ac.ankushchauhan.2006@gmail.com">
+  <img align="left" alt="Ankush's Email" width="22px" src="https://www.iconsdb.com/icons/preview/white/email-xxl.png" />
+</a>
+
+<hr />
+  
+  <br/>
+<img align="right" alt="GIF" src="https://github.com/anproghub/anproghub/blob/master/gif.gif?raw=true" width="390" height="270" />
+
+## About Me:
+
+Hi, This is Ankush a Blockchain Developer from India. I am passionate about Nextjs and Thirdweb. Always eager to connect with others :)
+
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
 
 ###
 
@@ -7,15 +38,10 @@
   <img src="https://streak-stats.demolab.com?user=Ggre55&locale=en&mode=weekly&theme=cobalt&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ggre55/count.svg?"  />
-</div>
+## Tools / Languages:
 
-###
-
-<h5 align="left">Have Experience with</h5>
+<h5 align="left">These are the tools and languages that I have worked with and have experience using them.</h5>
 
 ###
 
@@ -121,19 +147,6 @@
 
 ###
 
-<h5 align="left">Available on!!</h5>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="35" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="50" height="35" alt="codesandbox logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="50" height="35" alt="ko-fi logo"  />
-</div>
-
-###
 
 <br clear="both">
 
