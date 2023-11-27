@@ -21,7 +21,7 @@
 
 ## About Me:
 
-Hi, a Python Developer, networking expert. I am passionate about computers and programming
+Hi, a Python Developer, networking expert. I am passionate about computers and programming                                    
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
