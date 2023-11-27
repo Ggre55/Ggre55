@@ -21,7 +21,7 @@
 
 ## About Me:
 
-Hi, This is Ankush a Blockchain Developer from India. I am passionate about Nextjs and Thirdweb. Always eager to connect with others :)
+Hi, a Python Developer, networking expert. I am passionate about computers and programming
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
@@ -34,9 +34,9 @@ Hi, This is Ankush a Blockchain Developer from India. I am passionate about Next
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ggre55&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=darcula&locale=en&hide_border=true" height="146" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ggre55&locale=en&mode=weekly&theme=cobalt&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ggre55&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false" height="146" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ggre55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
 </div>
 
 
@@ -154,3 +154,5 @@ Hi, This is Ankush a Blockchain Developer from India. I am passionate about Next
 <img src="https://raw.githubusercontent.com/Ggre55/Ggre55/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
