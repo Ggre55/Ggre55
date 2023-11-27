@@ -15,8 +15,9 @@
 
 <hr />
   
-  <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="390" height="270" />
+<div align="left">
+  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?raw=true" width="340" height="270" /></div>
 <img src="https://komarev.com/ghpvc/?username=Ggre55&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 ## About Me:
