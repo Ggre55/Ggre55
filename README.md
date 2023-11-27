@@ -1,16 +1,19 @@
 ### Hey! 🌞 , I'm <a href="https://linktr.ee/Ggre55">Ggre55 </a> 
 
-<a href="https://twitter.com/anproghub">
-  <img align="left" alt="Ankush's Twitter | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />
+<a href="https://twitter.com/Ggre55">
+  <img align="left" alt="Twitter | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xxl.png" />
 </a>
-<a href="https://www.linkedin.com/in/ankushchauhan14">
-  <img align="left" alt="Ankush's Linkedin" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
+<a href="https://www.youtube.com/@Ggre55">
+  <img align="left" alt="Youtube" width="22px" src="https://www.iconsdb.com/icons/preview/white/youtube-3-xxl.png" />
 </a>
-<a href="https://dsc.gg/cryptokaro">
-  <img align="left" alt="Ankush's Gitlab" width="42px" src="https://user-images.githubusercontent.com/67872399/172011937-2089d709-3b96-485c-8b97-201522f8664c.png" />
+<a href="https://discord.gg/mqn8k3TZaP">
+  <img align="left" alt="Discord" width="42px" src="https://user-images.githubusercontent.com/67872399/172011937-2089d709-3b96-485c-8b97-201522f8664c.png" />
 </a>
-  <a href="mailto:ac.ankushchauhan.2006@gmail.com">
+  <a href="mailto:gg5cr71@gmail.com">
   <img align="left" alt="Ankush's Email" width="22px" src="https://www.iconsdb.com/icons/preview/white/email-xxl.png" />
+</a>
+<a href="https://t.me/DrWoop_Globe">
+  <img align="left" alt="Telegram Channel" width="22px" src="https://www.iconsdb.com/icons/preview/white/telegram-xxl.png" />
 </a>
 
 <hr />
