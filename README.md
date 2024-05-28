@@ -25,7 +25,7 @@
 
 ## About Me:
 
-Hi, a Python Developer, networking expert. I am passionate about computers and programming                                    
+Python Developer, networking expert. I am passionate about computers and programming                                    
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
@@ -40,8 +40,7 @@ Hi, a Python Developer, networking expert. I am passionate about computers and p
 ## Github Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ggre55&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false" height="146" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ggre55&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
-</div>
+
 
 
 ## Tools / Languages:
@@ -152,10 +151,7 @@ Hi, a Python Developer, networking expert. I am passionate about computers and p
 
 ###
 
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ggre55/Ggre55/output/snake.svg" alt="Snake animation" />
 
 ###
 
